@@ -1,0 +1,38 @@
+Positive Test Case:
+Test Case 01: Verify Successful Login with Valid Credentials
+Test Steps:
+1-Launch the Trendyol mobile application.
+2-Select the Turkish flag
+3-Select a Gender
+4-Close the Information Text
+5-Click the notification sign
+6-Enter a valid email address and a password with at least 7 characters.
+7-Tap on the login button.
+8-Asser the home page header text
+Expected Result:
+User should be logged in successfully and directed to the home/dashboard page.
+
+Test Case 02: Verify Successful Login with Facebook account
+Test Steps:
+1-Launch the Trendyol mobile application.
+2-Select the Turkish flag
+3-Select a Gender
+4-Close the Information Text
+5-Click the notification sign
+6-Click the Facebook icon
+7-Verify the Alisverise Devam Et text
+Expected Result:
+User should be logged in successfully and directed to the home/dashboard page.
+
+Test Case 03: Verify Successful Login with Gmail account
+Test Steps:
+1-Launch the Trendyol mobile application.
+2-Select the Turkish flag
+3-Select a Gender
+4-Close the Information Text
+5-Click the notification sign
+6-Click the Google icon
+7-Verify the Alisverise Devam Et text
+Expected Result:
+User should be logged in successfully and directed to the home/dashboard page.
+
